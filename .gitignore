@@ -1,0 +1,16 @@
+
+# Created by https://www.toptal.com/developers/gitignore/api/jupyternotebook
+# Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebook
+
+### JupyterNotebook ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Remove previous ipynb_checkpoints
+#   git rm -r .ipynb_checkpoints/
+#
+
+# End of https://www.toptal.com/developers/gitignore/api/jupyternotebook
+
+#DS_Store
+.DS_Store
